@@ -1,0 +1,26 @@
+{
+  "name": "babel",
+  "version": "1.0.0",
+  "description": "Babel project for the class frontend",
+  "main": "index.js",
+  "scripts": {
+    "help": "babel -h",
+    "build": "babel static/js/script.js -o static/js/script-babel.js"
+  },
+  "keywords": [
+    "es6",
+    "es6",
+    "babel",
+    "javascript",
+    "frontend",
+    "justus",
+    "v1",
+    "npm"
+  ],
+  "author": "zishrodrigues",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.24.0",
+    "babel-preset-es2015": "^6.24.0"
+  }
+}
