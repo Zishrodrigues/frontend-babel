@@ -1,6 +1,6 @@
 # Babel demo/install for Frontend class
 
-### install
+### Install
 
 ```
     npm install
@@ -10,5 +10,5 @@
     npm run build
 ```
 
-* ES6 code in static/js/script.js
-* Babel ES5 code in static/js/script-babel.js
+* ES6 code in *static/js/script.js*
+* Babel ES5 code in *static/js/script-babel.js*
